@@ -1,5 +1,5 @@
-##**Student-Performance-Prediction
-**
+##Student-Performance-Prediction
+
 
     1. Problem Statement
         This project aims to analyze the factors influencing students' performance, specifically their test scores. By examining various variables such as gender, ethnicity, parental level of education, lunch type, and test preparation course, we seek to understand their impact on academic outcomes.
